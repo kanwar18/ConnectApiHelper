@@ -1,0 +1,17 @@
+{
+    "projectName": "Sumr16",
+    "username": "digvijay.singh@capitalone.com.sumr16",
+    "id": "cea2f770-2a91-11e6-b33e-cb767d621684",
+    "namespace": "",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "/Users/kunwar/Documents/Sublime",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
